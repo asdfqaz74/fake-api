@@ -25,5 +25,21 @@
       "title": "다섯 번째 포스트",
       "date": "2024-04-05"
     }
+  ],
+  "foodName": [
+    { "id": 1, "food": "김치찌개", "price": 8000 },
+    { "id": 2, "food": "비빔밥", "price": 9000 },
+    { "id": 3, "food": "불고기", "price": 12000 },
+    { "id": 4, "food": "된장찌개", "price": 7000 },
+    { "id": 5, "food": "떡볶이", "price": 6000 }
+  ],
+  "totalPrice": 41000,
+  "averagePrice": 8200,
+  "drinkName": [
+    { "id": 1, "drink": "콜라", "price": 2000 },
+    { "id": 2, "drink": "사이다", "price": 2000 },
+    { "id": 3, "drink": "맥주", "price": 4000 },
+    { "id": 4, "drink": "커피", "price": 3000 },
+    { "id": 5, "drink": "녹차", "price": 2500 }
   ]
 }
